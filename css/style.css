@@ -1,9 +1,10 @@
-#img-div{
-	text-align: center;
-}
-
 #img-div {
+	text-align: center;
+  }
+  
+  #image {
+	display: block;
 	max-width: 100%;
 	height: auto;
-	display: auto;
-}
+	margin: 0 auto;
+  }
